@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+label{
+    display: block;
+    color: green;
+   
+}
+div{
+    text-align: center;
+    background-color: rgb(192, 253, 192);
+    width: 30vw;
+    
+    
+}
+input, textarea{
+    border-radius: 6px;
+border: none;
+}
+h1{
+    background-color: white;
+    color: green;
+}
+input{
+   width: 22vw;
+    
+}
+.b{
+    width: 10vw;
+}
+#c{
+    
+    
+}
+button{
+    display: block;
+    margin-left: 200px;
+    border-radius: 10px;
+    background-color: rgb(4, 55, 4);
+    color: white;
+    font-size: larger;
+}
+a{
+    display: block;
+    margin-right: 400px;
+}
+#x{
+    width: 10vw;
+    margin-right: 185px;
+}
+#s{
+    margin: 0 auto;
+    height: 70vh;
+    margin-top: 20px;
+}
+body{
+    background-image: url(desktop-wallpaper-green-cow-print-and-backgrounds-cow-print.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
